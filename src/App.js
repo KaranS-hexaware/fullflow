@@ -1,4 +1,4 @@
-import "./App.css"
+import LogInDetails from './LogInDetails';import "./App.css"
 function App() {
   return (
     <>
@@ -84,7 +84,7 @@ function App() {
           <div class="container">
             <div class="row">
               <div class="col-12">
-                <h2>Bootstrap Header Footer Template</h2>
+                <LogInDetails/>
               </div>
             </div>
           </div>
